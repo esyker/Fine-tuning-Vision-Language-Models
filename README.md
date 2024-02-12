@@ -1,8 +1,9 @@
 # Fine-tuning of Vision and Language Models
 
 ### Folder Structure
-* lxmert contains code for the LXMert model.
-* clip-vilt contains code for fine-tuning the VILT model.
+* lxmert contains code for the LXMERT model. [https://huggingface.co/docs/transformers/model_doc/lxmert](https://huggingface.co/docs/transformers/model_doc/lxmert).
+* clip-vit contains code for fine-tuning the CLIP-ViT model. [https://huggingface.co/openai/clip-vit-base-patch32](https://huggingface.co/openai/clip-vit-base-patch32).
+* vsr_eda contains code for the exploratory data analysis and data augmentation of the Visual Spatial Reasoning Dataset (VSR).
   
 ### Approach
   
