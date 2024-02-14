@@ -1,11 +1,9 @@
-# Fine-tuning of Vision and Language Models
-
-### Folder Structure
+# Folder Structure
 * lxmert contains code for the LXMERT model. [https://huggingface.co/docs/transformers/model_doc/lxmert](https://huggingface.co/docs/transformers/model_doc/lxmert).
 * clip-vit contains code for fine-tuning the CLIP-ViT model. [https://huggingface.co/openai/clip-vit-base-patch32](https://huggingface.co/openai/clip-vit-base-patch32).
 * vsr_eda contains code for the exploratory data analysis and data augmentation of the Visual Spatial Reasoning Dataset (VSR).
   
-### Approach
+# Approach
   
 ![image](https://github.com/esyker/Fine-tuning-Vision-Language-Models/assets/50277636/136fe38f-1a60-405a-b516-a526b5a0734a)
 
@@ -25,11 +23,13 @@
 
 ![image](https://github.com/esyker/Fine-tuning-Vision-Language-Models/assets/50277636/839ca14c-b802-4b64-857a-abc223870432)
 
-### Results
+# Results
 
-![image](https://github.com/esyker/Fine-tuning-Vision-Language-Models/assets/50277636/262ab571-82a9-430b-9497-3890d657cfb7)
+<img width="376" alt="image" src="https://github.com/esyker/Fine-tuning-Vision-Language-Models/assets/50277636/38bc9b52-e7ad-4446-8e59-4f46c58f3886">
 
-![image](https://github.com/esyker/Fine-tuning-Vision-Language-Models/assets/50277636/0bdc734c-5d9d-44da-9c47-a27fbe8d90cf)
+<img width="438" alt="image" src="https://github.com/esyker/Fine-tuning-Vision-Language-Models/assets/50277636/db1b626d-a634-4a8d-afc1-bb31b6582333">
+
+
 
 
 
